@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.span {
+    color: #4d5ae5;
+}
+
+.header-title {
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+
+.header-text {
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500
+}
+
+.header-text .a {
+    color: #2e2f42;
+}
+
+.header-link {
+    color: black;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.header-link:hover {
+    color: #404bbf;
+}
+
+.header-link:active {
+    color: #4d5ae5;
+}
+
+
+
+
+.title {
+    font-size: 56px;
+    line-height: 1.1;
+    color: white;
+    font-weight: 700;
+}
+
+.button {
+    font-size: 16px;
+    line-height: 1.5;
+    background: #4d5ae5;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+
+.section {
+    background: #2e2f42;
+}
+
+.section-title {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.section-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+
+
+
+.tile-team {
+    font-size: 36px;
+    line-height: 1.1;
+    font-weight: 700;
+}
+
+.title-team-list {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.team-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.section-team {
+    background: #f4f4fd;
+}
+
+
+
+
+
+.title-portfolio {
+    font-size: 36px;
+    line-height: 1.1;
+    font-weight: 700;
+}
+
+.title-portfolio-list {
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: white;
+}
+
+.span-studio {
+    color: white;
+}
+
+.footer {
+    background: #2e2f42;
+}
